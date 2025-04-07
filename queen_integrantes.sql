@@ -149,3 +149,25 @@ INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('700', '105', 'We Will Rock You', '1977-10-28 00:02:02', 'Brian May');
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('701', '105', 'We Are The Champions', '1977-10-28 00:02:59', 'Freddie Mercury');
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('702', '105', 'Sheer Heart Attack', '1977-10-28 00:03:27', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('703', '105', 'All Dead, All Dead', '1977-10-28 00:03:09', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('704', '105', 'Spread Your Wings', '1977-10-28 00:04:34', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('705', '105', 'Fight From The Inside', '1977-10-28 00:03:01', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('706', '105', 'Get Down, Make Love', '1977-10-28 00:03:50', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('707', '105', 'Sleeping On The Sidewalk', '1977-10-28 00:03:06', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('708', '105', 'Who Needs You', '1977-10-28 00:03:06', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('709', '105', 'Its Late', '1977-10-28 00:06:26', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('710', '105', 'My Melancholy Blues', '1977-10-28 00:03:31', 'Freddie Mercury');
+
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('800', '106', 'Mustapha', '1977-11-10 00:03:01', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('801', '106', 'Fat Bottomed Girls', '1977-11-10 00:04:15', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('802', '106', 'Jealousy', '1977-11-10 00:03:13', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('803', '106', 'Bicycle Race', '1977-11-10 00:03:00', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('804', '106', 'If You Cant Beat Them', '1977-11-10 00:04:15', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('805', '106', 'Let Me Entertain You', '1977-11-10 00:03:01', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('806', '106', 'Dead On Time', '1977-11-10 00:03:23', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('807', '106', 'In Only Seven Days', '1977-11-10 00:02:29', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('808', '106', 'Dreamers Ball', '1977-11-10 00:03:30', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('809', '106', 'Fun It', '1977-11-10 00:03:28', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('810', '106', 'Leaving Home Aint Easy', '1977-11-10 00:03:15', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('811', '106', 'Dont Stop Me Now', '1977-11-10 00:03:29', 'Brian May, Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('812', '106', 'More Of That Jazz', '1977-11-10 00:04:16', 'Roger Taylor');
