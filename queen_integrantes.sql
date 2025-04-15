@@ -196,3 +196,20 @@ INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1010', '108', 'Flash To The Rescue', '1980-12-08 00:02:43', 'Brian May');
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1011', '108', 'Vultans Theme (Attack Of The Hawk Men)', '1980-12-08 00:01:12', 'Freddie Mercury');
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1012', '108', 'Battle Theme', '1980-12-08 00:02:18', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1013', '108', 'The Wedding March', '1980-12-08 00:00:56', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1014', '108', 'Marriage Of Dale And Ming (And Flash Approaching)', '1980-12-08 00:02:04', 'Brian May, Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1015', '108', 'Crash Dive On Mingo City', '1980-12-08 00:01:00', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1016', '108', 'Flashs Theme Reprise', '1980-12-08 00:01:23', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1017', '108', 'The Hero', '1980-12-08 00:03:33', 'Brian May');
+
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1100', '109', 'Staying Power', '1982-05-24 00:04:12', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1101', '109', 'Dancer', '1982-05-24 00:03:50', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1102', '109', 'Back Chat', '1982-05-24 00:04:35', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1103', '109', 'Body Language', '1982-05-24 00:04:31', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1104', '109', 'Action This Day', '1982-05-24 00:03:34', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1105', '109', 'Put Out The Fire', '1982-05-24 00:03:18', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1106', '109', 'Life Is Real (Song For Lennon)', '1982-05-24 00:03:31', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1107', '109', 'Calling All Girls', '1982-05-24 00:03:51', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1108', '109', 'Las Palabras De Amor (The Words Of Love)', '1982-05-24 00:04:31', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1109', '109', 'Cool Cat', '1982-05-24 00:03:29', 'Freddie Mercury, John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1110', '109', 'Under Pressure', '1982-05-24 00:04:08', 'David Bowie, Brian May, Freddie Mercury, John Deacon, Roger Taylor');
