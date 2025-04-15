@@ -171,3 +171,28 @@ INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('810', '106', 'Leaving Home Aint Easy', '1977-11-10 00:03:15', 'Brian May');
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('811', '106', 'Dont Stop Me Now', '1977-11-10 00:03:29', 'Brian May, Freddie Mercury');
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('812', '106', 'More Of That Jazz', '1977-11-10 00:04:16', 'Roger Taylor');
+
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('900', '107', 'Play The Game', '1980-06-30 00:03:32', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('901', '107', 'Dragon Attack', '1980-06-30 00:04:18', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('902', '107', 'Another One Bites The Dust', '1980-06-30 00:03:34', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('903', '107', 'Need Your Loving Tonight', '1980-06-30 00:02:49', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('904', '107', 'Crazy Little Thing Called Love', '1980-06-30 00:02:43', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('905', '107', 'Rock It (Prime Jive)', '1980-06-30 00:04:33', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('906', '107', 'Dont Try Suicide', '1980-06-30 00:03:52', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('907', '107', 'Sail Away Sweet Sister', '1980-06-30 00:03:33', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('908', '107', 'Coming Soon', '1980-06-30 00:02:50', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('909', '107', 'Save Me', '1980-06-30 00:03:49', 'Brian May');
+
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1000', '108', 'Flashs Theme', '1980-12-08 00:03:29', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1001', '108', 'In The Space Capsule (The Love Theme)', '1980-12-08 00:02:42', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1002', '108', 'Mings Theme (In The Court of Ming The Merciless)', '1980-12-08 00:02:40', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1003', '108', 'The Ring (Hypnotic Seduction of Dale)', '1980-12-08 00:00:57', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1004', '108', 'Football Fight', '1980-12-08 00:01:28', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1005', '108', 'In The Death Cell (Love Theme Reprise)', '1980-12-08 00:02:24', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1006', '108', 'Execution of Flash', '1980-12-08 00:01:05', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1007', '108', 'The Kiss (Aura Resurrects Flash)', '1980-12-08 00:01:44', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1008', '108', 'Arboria (Planet Of The Tree Men)', '1980-12-08 00:01:41', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1009', '108', 'Escape From The Swamp', '1980-12-08 00:01:43', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1010', '108', 'Flash To The Rescue', '1980-12-08 00:02:43', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1011', '108', 'Vultans Theme (Attack Of The Hawk Men)', '1980-12-08 00:01:12', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1012', '108', 'Battle Theme', '1980-12-08 00:02:18', 'Brian May');
