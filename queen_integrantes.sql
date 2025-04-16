@@ -213,3 +213,23 @@ INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1108', '109', 'Las Palabras De Amor (The Words Of Love)', '1982-05-24 00:04:31', 'Brian May');
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1109', '109', 'Cool Cat', '1982-05-24 00:03:29', 'Freddie Mercury, John Deacon');
 INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1110', '109', 'Under Pressure', '1982-05-24 00:04:08', 'David Bowie, Brian May, Freddie Mercury, John Deacon, Roger Taylor');
+
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1200', '110', 'Radio Ga Ga', '1984-02-27 00:05:48', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1201', '110', 'Tear It Up', '1984-02-27 00:03:24', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1202', '110', 'Its A Hard Life', '1984-02-27 00:04:06', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1203', '110', 'Man On The Prowl', '1984-02-27 00:03:25', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1204', '110', 'Machines (or Back To Humans)', '1984-02-27 00:05:07', 'Brian May, Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1205', '110', 'I Want To Break Free', '1984-02-27 00:03:18', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1206', '110', 'Keep Passing The Open Windows', '1984-02-27 00:05:21', 'Freddie Mercury');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1207', '110', 'Hammer To Fall', '1984-02-27 00:04:25', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1208', '110', 'Is This The World We Created...?', '1984-02-27 00:02:14', 'Brian May, Freddie Mercury');
+
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1300', '111', 'One Vision', '1986-06-02 00:05:11', 'Brian May, Freddie Mercury, John Deacon, Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1301', '111', 'A Kind Of Magic', '1986-06-02 00:04:24', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1302', '111', 'One Year Of Love', '1986-06-02 00:04:27', 'John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1303', '111', 'Pain Is So Close To Pleasure', '1986-06-02 00:04:21', 'Freddie Mercury, John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1304', '111', 'Friends Will Be Friends', '1986-06-02 00:04:06', 'Freddie Mercury, John Deacon');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1305', '111', 'Who Wants To Live Forever', '1986-06-02 00:05:15', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1306', '111', 'Gimme The Prize', '1986-06-02 00:04:33', 'Brian May');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1307', '111', 'Dont Lose Your Head', '1986-06-02 00:04:38', 'Roger Taylor');
+INSERT INTO musicas (musica_id, album_id, titulo, duracao, compositor) VALUES ('1308', '111', 'Princes Of The Universe', '1986-06-02 00:03:33', 'Freddie Mercury');
